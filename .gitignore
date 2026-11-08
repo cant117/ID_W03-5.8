@@ -1,0 +1,15 @@
+# 引擎暫存快取（數 GB，不可上傳）
+Binaries/*
+DerivedDataCache/*
+Intermediate/*
+Saved/*
+
+# IDE 與系統檔案
+.vs/*
+.idea/*
+.vscode/*
+*.VC.db
+*.opendb
+
+# 打包產出的執行檔
+Build/*
